@@ -73,7 +73,8 @@ Blinkit-Data-Analysis/
 
 ## 📸 Dashboard Preview
 
-> *(Add screenshots of your Excel, Power BI dashboards and Python plots here)*
+><img width="1402" height="747" alt="Blinkit PowerBi Dashboard" src="https://github.com/user-attachments/assets/c188395c-c4d5-43a2-91ab-b6d6d97db36d" />
+
 
 ---
 
