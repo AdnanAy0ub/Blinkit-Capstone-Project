@@ -82,8 +82,8 @@ Blinkit-Data-Analysis/
 
 ## 🙋 About Me
 
-**ADNAN AYOUB DAR**
-Data Analyst | Passionate about turning raw data into business insights
+**ADNAN AYOUB DAR** from Srinagar J&K
+| Data Analyst | Passionate about turning raw data into business insights
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/adnan-ayoub-dar-5ba528267/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/AdnanAy0ub)
