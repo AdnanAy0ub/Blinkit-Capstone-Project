@@ -89,7 +89,7 @@ This project was built following the guided tutorial:
 **ADNAN AYOUB DAR**
 Data Analyst | Passionate about turning raw data into business insights
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/adnan-ayoub-dar-5ba528267/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/adnan-ayoub-dar-5ba528267))
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/AdnanAy0ub)
 
 ---
